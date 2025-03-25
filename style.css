@@ -1,0 +1,101 @@
+/*
+index.css
+*/
+
+main {
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+header,
+nav,
+article,
+footer {
+  padding: 20px;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-family: Helvetica, sans-serif;
+  color: #f2f0f0;
+}
+
+header {
+  /*   background-color: #2df3f4; */
+  height: 200px;
+  
+  background-image: url(https://mcusercontent.com/05932a47c1e271e93fb93da91/images/1b5e2e1f-2b6c-9c51-4c84-376a4c426067.jpg); 
+ 
+  background-repeat: no-repeat; 
+  background-size: cover;  
+}
+  
+nav {
+  background-color: #a3c0c6;
+  text-align: center;
+  line-height: 2em;
+  
+}
+
+article {
+  background-color: #daebef;
+}
+
+#aboutme {
+  color: #536b70;
+}
+
+#project1 {
+  color: #536b70
+}
+
+#project2 {
+  color: #536b70
+}
+
+#article3 {
+  color: #536b70
+}
+
+#article4 {
+  color: #536b70
+}
+
+#article5 {
+  color: #536b70
+}
+
+#article6 {
+  color: #536b70
+}
+#article7 {
+  color: #536b70
+}
+#article8 {
+  color: #536b70
+}
+#article9 {
+  color: #536b70
+}
+#article10 {
+  color: #536b70
+}
+#article11 {
+  color: #536b70
+}
+#article12 {
+  color: #536b70
+}
+.backToTop a {
+  font-size: 14px;
+  color: #536b70;
+}
+
+.backToTop a:hover {
+  color: white;
+}
+
+a {
+  color: #43565b;
+}
